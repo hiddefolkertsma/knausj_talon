@@ -16,3 +16,6 @@ mode: all
 ^talon sleep$: speech.disable()
 ^talon wake$: speech.enable()
 
+^english$: 
+    speech.enable()
+    key(cmd-8)
