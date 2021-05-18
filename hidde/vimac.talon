@@ -1,0 +1,1 @@
+spot: key(ctrl-f)
