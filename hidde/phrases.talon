@@ -1,0 +1,5 @@
+email work: "h.folkertsma@rug.nl"
+email student: "h.folkertsma.1@student.rug.nl"
+email personal: "hidde-folkertsma@live.nl"
+pee number: "p275266"
+ass number: "s2759799"

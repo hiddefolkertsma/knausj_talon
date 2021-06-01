@@ -1,0 +1,1 @@
+(spotlight | spot light): key(cmd-space)

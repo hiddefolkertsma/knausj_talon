@@ -28,7 +28,27 @@ go bahm bix:
     "https://bambix.nestor.rug.nl/"
     key(enter)
 
+go ohcahsys:
+    app.tab_open()
+    "https://rug.nl/ocasys/"
+    key(enter)
+
 go argos:
     app.tab_open()
     "https://argos.citesi.nl/"
     key(enter)
+
+go confluence:
+    app.tab_open()
+    insert("https://nestorsupport.atlassian.net/wiki/spaces/NESTORSUPP/overview/")
+    key(enter)
+
+go gather town:
+    app.tab_open()
+    insert("https://gather.town/app/PJRHFaEd4ZtmQsH1/Nestorsupport")
+    key(enter)
+
+go progress way way way:
+    app.tab_open()
+    insert("progresswww.nl/rug")
+    key(enter)    
