@@ -17,8 +17,8 @@ mode: all
 ^talon wake$: speech.enable()
 
 ^go to sleep$: speech.disable()
-^come to life$: speech.enable()
+^wake up$: speech.enable()
 
-^english$: 
-    speech.enable()
-    key(cmd-8)
+# ^english$: 
+#     speech.enable()
+#     key(cmd-8)
